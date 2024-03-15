@@ -1,0 +1,935 @@
+fileFormatVersion: 2
+guid: 1a63aa55da1bb9841b81b753f6a2f1d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1108704905184193286
+    second: RuinsTiles_0
+  - first:
+      213: -1481289143790616456
+    second: RuinsTiles_1
+  - first:
+      213: 4570890761260656581
+    second: RuinsTiles_2
+  - first:
+      213: -63770238922411639
+    second: RuinsTiles_3
+  - first:
+      213: -8769277927301841660
+    second: RuinsTiles_4
+  - first:
+      213: -4175477698054691078
+    second: RuinsTiles_5
+  - first:
+      213: 2710491827785737943
+    second: RuinsTiles_6
+  - first:
+      213: -5358489329082782059
+    second: RuinsTiles_7
+  - first:
+      213: 5148247011854232919
+    second: RuinsTiles_8
+  - first:
+      213: 1447396083311486187
+    second: RuinsTiles_9
+  - first:
+      213: -6290667572558713487
+    second: RuinsTiles_10
+  - first:
+      213: 2675107871693894110
+    second: RuinsTiles_11
+  - first:
+      213: -3337971155838299781
+    second: RuinsTiles_12
+  - first:
+      213: 4526172112846913807
+    second: RuinsTiles_13
+  - first:
+      213: -750734556561331445
+    second: RuinsTiles_14
+  - first:
+      213: -5227129159333722586
+    second: RuinsTiles_15
+  - first:
+      213: -8205449646864919197
+    second: RuinsTiles_16
+  - first:
+      213: -8578082432057626387
+    second: RuinsTiles_17
+  - first:
+      213: 4541542961732209559
+    second: RuinsTiles_18
+  - first:
+      213: 866794531579298910
+    second: RuinsTiles_19
+  - first:
+      213: -8518731891232823128
+    second: RuinsTiles_20
+  - first:
+      213: 7201000204311077525
+    second: RuinsTiles_21
+  - first:
+      213: 7123824242917854509
+    second: RuinsTiles_22
+  - first:
+      213: -2196944447540993814
+    second: RuinsTiles_23
+  - first:
+      213: 6029602700057074842
+    second: RuinsTiles_24
+  - first:
+      213: -8680933130819725641
+    second: RuinsTiles_25
+  - first:
+      213: -8524675178377294221
+    second: RuinsTiles_26
+  - first:
+      213: 1252610123955143675
+    second: RuinsTiles_27
+  - first:
+      213: 4105136050748746385
+    second: RuinsTiles_28
+  - first:
+      213: 7626418718486118476
+    second: RuinsTiles_29
+  - first:
+      213: -2650727798915113946
+    second: RuinsTiles_30
+  - first:
+      213: 2078306134342076159
+    second: RuinsTiles_31
+  - first:
+      213: -5442670542038260508
+    second: RuinsTiles_32
+  - first:
+      213: -2808467659164882011
+    second: RuinsTiles_33
+  - first:
+      213: -3463149179231991168
+    second: RuinsTiles_34
+  - first:
+      213: 1760002740403400396
+    second: RuinsTiles_35
+  - first:
+      213: 4761203201207707763
+    second: RuinsTiles_36
+  - first:
+      213: -7524182473146768606
+    second: RuinsTiles_37
+  - first:
+      213: 5665803572992066213
+    second: RuinsTiles_38
+  - first:
+      213: -748172510132294209
+    second: RuinsTiles_39
+  - first:
+      213: 7403178765816562559
+    second: RuinsTiles_40
+  - first:
+      213: -4575944911901457038
+    second: RuinsTiles_41
+  - first:
+      213: -1508799480522236910
+    second: RuinsTiles_42
+  - first:
+      213: -6374218715826765501
+    second: RuinsTiles_43
+  - first:
+      213: -3499665150563060143
+    second: RuinsTiles_44
+  - first:
+      213: -7948387209494863596
+    second: RuinsTiles_45
+  - first:
+      213: -8593203137574489422
+    second: RuinsTiles_46
+  - first:
+      213: 4214000300633399863
+    second: RuinsTiles_47
+  - first:
+      213: -7733206013051253443
+    second: RuinsTiles_48
+  - first:
+      213: 2054720363067170521
+    second: RuinsTiles_49
+  - first:
+      213: -8931622644112664484
+    second: RuinsTiles_50
+  - first:
+      213: -5995753632552214411
+    second: RuinsTiles_51
+  - first:
+      213: 614973697924628641
+    second: RuinsTiles_52
+  - first:
+      213: -4159637177950775239
+    second: RuinsTiles_53
+  - first:
+      213: 5065841202395108681
+    second: RuinsTiles_54
+  - first:
+      213: -3607087588730247675
+    second: RuinsTiles_55
+  - first:
+      213: 8105135723230749119
+    second: RuinsTiles_56
+  - first:
+      213: -5313835131200123140
+    second: RuinsTiles_57
+  - first:
+      213: -5016102992170225052
+    second: RuinsTiles_58
+  - first:
+      213: 3633452533747728924
+    second: RuinsTiles_59
+  - first:
+      213: -5102511561392288825
+    second: RuinsTiles_60
+  - first:
+      213: -3600275092245639676
+    second: RuinsTiles_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RuinsTiles_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abed4c3b815609d0800000000000000
+      internalID: -2808467659164882011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a01b78b2c60ffc0800000000000000
+      internalID: -3463149179231991168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce6571ea29cc6810800000000000000
+      internalID: 1760002740403400396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3782077e511331240800000000000000
+      internalID: 4761203201207707763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223eddec7ebb49790800000000000000
+      internalID: -7524182473146768606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2c457b45af0ae40800000000000000
+      internalID: 5665803572992066213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd2ad6e015fd95f0800000000000000
+      internalID: -748172510132294209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7306312ddf5db660800000000000000
+      internalID: 7403178765816562559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2758b56d85afe70c0800000000000000
+      internalID: -4575944911901457038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c9d2ecddaaf0be0800000000000000
+      internalID: -1508799480522236910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341cf7a99d93a87a0800000000000000
+      internalID: -6374218715826765501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156ffdb6611be6fc0800000000000000
+      internalID: -3499665150563060143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411ecc002f7a1b190800000000000000
+      internalID: -7948387209494863596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2b91e664fceb880800000000000000
+      internalID: -8593203137574489422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732a4aa52f22b7a30800000000000000
+      internalID: 4214000300633399863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d4a297a122ea490800000000000000
+      internalID: -7733206013051253443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de5169a845d38c10800000000000000
+      internalID: 2054720363067170521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5854d5e6808c0480800000000000000
+      internalID: -8931622644112664484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570a7fa86ddcacca0800000000000000
+      internalID: -5995753632552214411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0810be153d88800800000000000000
+      internalID: 614973697924628641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9385cbd76000646c0800000000000000
+      internalID: -4159637177950775239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9455c4dcbbb7d4640800000000000000
+      internalID: 5065841202395108681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506630003fc01fdc0800000000000000
+      internalID: -3607087588730247675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb16f775ff93b7070800000000000000
+      internalID: 8105135723230749119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe43d12a177146b0800000000000000
+      internalID: -5313835131200123140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4627be2b7e8336ab0800000000000000
+      internalID: -5016102992170225052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12c64e14dd9c6230800000000000000
+      internalID: 3633452533747728924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb83e8e4cc3039b0800000000000000
+      internalID: -5102511561392288825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsTiles_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e0301f0e0490ec0800000000000000
+      internalID: -3600275092245639676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RuinsTiles_47: 4214000300633399863
+      RuinsTiles_48: -7733206013051253443
+      RuinsTiles_36: 4761203201207707763
+      RuinsTiles_60: -5102511561392288825
+      RuinsTiles_34: -3463149179231991168
+      RuinsTiles_55: -3607087588730247675
+      RuinsTiles_57: -5313835131200123140
+      RuinsTiles_41: -4575944911901457038
+      RuinsTiles_40: 7403178765816562559
+      RuinsTiles_50: -8931622644112664484
+      RuinsTiles_56: 8105135723230749119
+      RuinsTiles_38: 5665803572992066213
+      RuinsTiles_51: -5995753632552214411
+      RuinsTiles_61: -3600275092245639676
+      RuinsTiles_54: 5065841202395108681
+      RuinsTiles_52: 614973697924628641
+      RuinsTiles_42: -1508799480522236910
+      RuinsTiles_59: 3633452533747728924
+      RuinsTiles_49: 2054720363067170521
+      RuinsTiles_53: -4159637177950775239
+      RuinsTiles_58: -5016102992170225052
+      RuinsTiles_45: -7948387209494863596
+      RuinsTiles_43: -6374218715826765501
+      RuinsTiles_44: -3499665150563060143
+      RuinsTiles_39: -748172510132294209
+      RuinsTiles_33: -2808467659164882011
+      RuinsTiles_37: -7524182473146768606
+      RuinsTiles_46: -8593203137574489422
+      RuinsTiles_35: 1760002740403400396
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

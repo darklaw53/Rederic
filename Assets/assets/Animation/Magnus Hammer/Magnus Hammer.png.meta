@@ -1,0 +1,1336 @@
+fileFormatVersion: 2
+guid: 99a8e2cdb02ac474b86b2d4a2aacffdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6805552314072500695
+    second: Magnus Hammer_0
+  - first:
+      213: 6085291566035788586
+    second: Magnus Hammer_1
+  - first:
+      213: -7503734328735215105
+    second: Magnus Hammer_2
+  - first:
+      213: 803480195734462598
+    second: Magnus Hammer_3
+  - first:
+      213: 1202631128920095758
+    second: Magnus Hammer_4
+  - first:
+      213: -1548180101371069030
+    second: Magnus Hammer_5
+  - first:
+      213: -1520009474965177419
+    second: Magnus Hammer_6
+  - first:
+      213: 540954911256822924
+    second: Magnus Hammer_7
+  - first:
+      213: -5825077877292726664
+    second: Magnus Hammer_8
+  - first:
+      213: -1901148373471762211
+    second: Magnus Hammer_9
+  - first:
+      213: -3891834582612101411
+    second: Magnus Hammer_10
+  - first:
+      213: -6233384091075289803
+    second: Magnus Hammer_11
+  - first:
+      213: -2010983989441106056
+    second: Magnus Hammer_12
+  - first:
+      213: -7754102792501847319
+    second: Magnus Hammer_13
+  - first:
+      213: -8551392007924816606
+    second: Magnus Hammer_14
+  - first:
+      213: -3368875555662575856
+    second: Magnus Hammer_15
+  - first:
+      213: -5447532854109739928
+    second: Magnus Hammer_16
+  - first:
+      213: 3719865291586833256
+    second: Magnus Hammer_17
+  - first:
+      213: 4476208088753968957
+    second: Magnus Hammer_18
+  - first:
+      213: -5236166657709060568
+    second: Magnus Hammer_19
+  - first:
+      213: -2843851095422877749
+    second: Magnus Hammer_20
+  - first:
+      213: -34691451203755356
+    second: Magnus Hammer_21
+  - first:
+      213: -418586146171779339
+    second: Magnus Hammer_22
+  - first:
+      213: 1196745462740039639
+    second: Magnus Hammer_23
+  - first:
+      213: 1030621987768164913
+    second: Magnus Hammer_24
+  - first:
+      213: 7440869525613836874
+    second: Magnus Hammer_25
+  - first:
+      213: -3068141924914819680
+    second: Magnus Hammer_26
+  - first:
+      213: -3303587768030086484
+    second: Magnus Hammer_27
+  - first:
+      213: -4670098407089452085
+    second: Magnus Hammer_28
+  - first:
+      213: 4038406231297167606
+    second: Magnus Hammer_29
+  - first:
+      213: 7537173098919935759
+    second: Magnus Hammer_30
+  - first:
+      213: 374313663755303389
+    second: Magnus Hammer_31
+  - first:
+      213: -8270234507942573480
+    second: Magnus Hammer_32
+  - first:
+      213: -4739050166793464242
+    second: Magnus Hammer_33
+  - first:
+      213: -2171642534084339629
+    second: Magnus Hammer_34
+  - first:
+      213: 6755406860919853819
+    second: Magnus Hammer_35
+  - first:
+      213: 5115232135885785312
+    second: Magnus Hammer_36
+  - first:
+      213: -4401733013470296034
+    second: Magnus Hammer_37
+  - first:
+      213: 7769494612668747872
+    second: Magnus Hammer_38
+  - first:
+      213: 3412648729316090095
+    second: Magnus Hammer_39
+  - first:
+      213: -1733688300058053794
+    second: Magnus Hammer_40
+  - first:
+      213: -1530712345986402903
+    second: Magnus Hammer_41
+  - first:
+      213: 3114236879859328321
+    second: Magnus Hammer_42
+  - first:
+      213: -7065950586548426435
+    second: Magnus Hammer_43
+  - first:
+      213: -5458732082225527244
+    second: Magnus Hammer_44
+  - first:
+      213: -8249359170567316579
+    second: Magnus Hammer_45
+  - first:
+      213: 7566115536000642539
+    second: Magnus Hammer_46
+  - first:
+      213: -618444145572405651
+    second: Magnus Hammer_47
+  - first:
+      213: 3257144937360564858
+    second: Magnus Hammer_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magnus Hammer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1818
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d901a4b5cd227e50800000000000000
+      internalID: 6805552314072500695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1818
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a236e34207c437450800000000000000
+      internalID: 6085291566035788586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1818
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff155de62616dd790800000000000000
+      internalID: -7503734328735215105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_3
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1818
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68060d22bf8862b00800000000000000
+      internalID: 803480195734462598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_4
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1818
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cfb13d3aa90b010800000000000000
+      internalID: 1202631128920095758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_5
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1818
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9df2718662c38ae0800000000000000
+      internalID: -1548180101371069030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_6
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1818
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbf8759f67d7eae0800000000000000
+      internalID: -1520009474965177419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1515
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8447fc20abd18700800000000000000
+      internalID: 540954911256822924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_8
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1515
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8760bfe788a292fa0800000000000000
+      internalID: -5825077877292726664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_9
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1515
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd867e580a3cd95e0800000000000000
+      internalID: -1901148373471762211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_10
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1515
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd633d2211d6df9c0800000000000000
+      internalID: -3891834582612101411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_11
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1515
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dd2eee1329e79a0800000000000000
+      internalID: -6233384091075289803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_12
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1515
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f6d5c57bc8714e0800000000000000
+      internalID: -2010983989441106056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_13
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1515
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea101dd794e36490800000000000000
+      internalID: -7754102792501847319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1212
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225e688a64a535980800000000000000
+      internalID: -8551392007924816606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_15
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1212
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0174c3cf7895f31d0800000000000000
+      internalID: -3368875555662575856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_16
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1212
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864e4804bb97664b0800000000000000
+      internalID: -5447532854109739928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_17
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1212
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b865526cd9f9330800000000000000
+      internalID: 3719865291586833256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_18
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1212
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3719ee6a8fae1e30800000000000000
+      internalID: 4476208088753968957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_19
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1212
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ec18eca266557b0800000000000000
+      internalID: -5236166657709060568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_20
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1212
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfb63ffe7c9888d0800000000000000
+      internalID: -2843851095422877749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 909
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2e1461f40c48ff0800000000000000
+      internalID: -34691451203755356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_22
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 909
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f608892e12e03af0800000000000000
+      internalID: -418586146171779339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_23
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 909
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d73e2168a1bb9010800000000000000
+      internalID: 1196745462740039639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_24
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 909
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132e0a6cc318d4e00800000000000000
+      internalID: 1030621987768164913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_25
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 909
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4afd3ef867434760800000000000000
+      internalID: 7440869525613836874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_26
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 909
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad08fccc25cb65d0800000000000000
+      internalID: -3068141924914819680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_27
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 909
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caabd3a9d6c4722d0800000000000000
+      internalID: -3303587768030086484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbc053fd3a703fb0800000000000000
+      internalID: -4670098407089452085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_29
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 606
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0113b221d4b0830800000000000000
+      internalID: 4038406231297167606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_30
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 606
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fb0c3fffa699860800000000000000
+      internalID: 7537173098919935759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_31
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 606
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9b5b24b44d13500800000000000000
+      internalID: 374313663755303389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_32
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 606
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ac7e858893a3d80800000000000000
+      internalID: -8270234507942573480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_33
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 606
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46158b5bf28b3eb0800000000000000
+      internalID: -4739050166793464242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_34
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 606
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35816c00f96ccd1e0800000000000000
+      internalID: -2171642534084339629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf25d529fb600cd50800000000000000
+      internalID: 6755406860919853819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_36
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 303
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e88223a684fcf640800000000000000
+      internalID: 5115232135885785312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_37
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 303
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e184ef74527e9e2c0800000000000000
+      internalID: -4401733013470296034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_38
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 303
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0609e688f2ac2db60800000000000000
+      internalID: 7769494612668747872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_39
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 303
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0e21630f92c5f20800000000000000
+      internalID: 3412648729316090095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_40
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 303
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53f9c33da3b0f7e0800000000000000
+      internalID: -1733688300058053794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_41
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 303
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5fc2c3b31d1cae0800000000000000
+      internalID: -1530712345986402903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145af6a31fdf73b20800000000000000
+      internalID: 3114236879859328321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_43
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d396158e063b0fd90800000000000000
+      internalID: -7065950586548426435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_44
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4364be2c710be34b0800000000000000
+      internalID: -5458732082225527244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_45
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b59b59a83648d80800000000000000
+      internalID: -8249359170567316579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_46
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bede1e43efd300960800000000000000
+      internalID: 7566115536000642539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_47
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 0
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e9cb58358da67f0800000000000000
+      internalID: -618444145572405651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnus Hammer_48
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 0
+        width: 455
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72a65d3014b33d20800000000000000
+      internalID: 3257144937360564858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Magnus Hammer_48: 3257144937360564858
+      Magnus Hammer_32: -8270234507942573480
+      Magnus Hammer_6: -1520009474965177419
+      Magnus Hammer_25: 7440869525613836874
+      Magnus Hammer_9: -1901148373471762211
+      Magnus Hammer_1: 6085291566035788586
+      Magnus Hammer_35: 6755406860919853819
+      Magnus Hammer_5: -1548180101371069030
+      Magnus Hammer_19: -5236166657709060568
+      Magnus Hammer_14: -8551392007924816606
+      Magnus Hammer_4: 1202631128920095758
+      Magnus Hammer_37: -4401733013470296034
+      Magnus Hammer_23: 1196745462740039639
+      Magnus Hammer_12: -2010983989441106056
+      Magnus Hammer_40: -1733688300058053794
+      Magnus Hammer_34: -2171642534084339629
+      Magnus Hammer_31: 374313663755303389
+      Magnus Hammer_8: -5825077877292726664
+      Magnus Hammer_16: -5447532854109739928
+      Magnus Hammer_22: -418586146171779339
+      Magnus Hammer_36: 5115232135885785312
+      Magnus Hammer_17: 3719865291586833256
+      Magnus Hammer_0: 6805552314072500695
+      Magnus Hammer_30: 7537173098919935759
+      Magnus Hammer_28: -4670098407089452085
+      Magnus Hammer_13: -7754102792501847319
+      Magnus Hammer_15: -3368875555662575856
+      Magnus Hammer_33: -4739050166793464242
+      Magnus Hammer_27: -3303587768030086484
+      Magnus Hammer_18: 4476208088753968957
+      Magnus Hammer_38: 7769494612668747872
+      Magnus Hammer_44: -5458732082225527244
+      Magnus Hammer_21: -34691451203755356
+      Magnus Hammer_7: 540954911256822924
+      Magnus Hammer_3: 803480195734462598
+      Magnus Hammer_10: -3891834582612101411
+      Magnus Hammer_20: -2843851095422877749
+      Magnus Hammer_43: -7065950586548426435
+      Magnus Hammer_41: -1530712345986402903
+      Magnus Hammer_47: -618444145572405651
+      Magnus Hammer_39: 3412648729316090095
+      Magnus Hammer_26: -3068141924914819680
+      Magnus Hammer_45: -8249359170567316579
+      Magnus Hammer_11: -6233384091075289803
+      Magnus Hammer_24: 1030621987768164913
+      Magnus Hammer_46: 7566115536000642539
+      Magnus Hammer_42: 3114236879859328321
+      Magnus Hammer_2: -7503734328735215105
+      Magnus Hammer_29: 4038406231297167606
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

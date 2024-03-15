@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CanJumpThrough
+  - red
+  - blue
+  - purple
+  - Treasure
+  - LootDestroyer
+  - Bag
+  - Arrow
+  - Exit
+  - Destroyer
+  - LogStop
+  - PainZone
+  - Poison
+  - HookZone
+  - Level
+  - LogStartLine
+  - DiologueTrigger
+  - TextBox
+  - BoulderTrigger
+  - Boss
+  - WallLimit
+  - Glave
+  - Mouse
+  - PauseMenu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Arrow
+  - Water
+  - UI
+  - Treasure
+  - OnlyGotTreasure
+  - Action
+  - Ground
+  - Enemy
+  - Platform
+  - GotTreasure
+  - Projectile
+  - JumpPlatform
+  - Destroyer
+  - ArrowHitbox
+  - WallLimit
+  - Glave
+  - Boss
+  - BoomDart
+  - cum
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 3059896065
+    locked: 0
+  - name: Middle
+    uniqueID: 32418783
+    locked: 0
+  - name: Front
+    uniqueID: 2547812923
+    locked: 0

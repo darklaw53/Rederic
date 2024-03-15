@@ -1,0 +1,4 @@
+{fade}???: <wave>Greetings traveler, I am Magnus the arrowsmith. This is my employer, Sasha Crane</wave>{/fade}<?pause>
+{fade}Magnus: <wave>May i interest you in quality arrows at a reasonable price?</wave>{/fade}<?pause>
+{fade}Magnus: <wave>Or perhaps you would be interested in our healing services?</wave>{/fade}<?pause>
+{fade}<color=#D77BBA>Sasha:   <wiggle>Sigh...</color>{/fade}<?pause>

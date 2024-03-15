@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Shop Ping
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -6283519888977285036, guid: 8f80f1f8410059c4185ddc9b88035e1e, type: 3}
+  - {fileID: -8364872870442381373, guid: f3c4580e4325a324994a0f48108104a2, type: 3}
+  - {fileID: -7169637589456024140, guid: 89efe2092bd61174f9904125e17e53f2, type: 3}
+  - {fileID: 8817917013999812606, guid: 05d1befffe6bec5489cbf6e00e1ce473, type: 3}
+  - {fileID: -2315578604270201071, guid: f260d87b045ab7b498aba112931a89fc, type: 3}
+  - {fileID: -2409923616273745233, guid: f202c7310136a114ca8762a82a536475, type: 3}
+  - {fileID: -2042586071863097101, guid: 70d8ab86f290ee8449e85be36c5822cf, type: 3}
+  - {fileID: 3829204235939191266, guid: 067aff5e502a22540aa359a3543b4de3, type: 3}
+  m_MinSpeed: 8
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

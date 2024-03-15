@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 3b41e66eb8961024d970010b537106e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6383194360290403931
+    second: kinght lad swordflourish_0
+  - first:
+      213: -6120259091992743584
+    second: kinght lad swordflourish_1
+  - first:
+      213: 6375111824318831998
+    second: kinght lad swordflourish_2
+  - first:
+      213: 6069592127224715738
+    second: kinght lad swordflourish_3
+  - first:
+      213: 3266251150535695706
+    second: kinght lad swordflourish_4
+  - first:
+      213: 333896725773309038
+    second: kinght lad swordflourish_5
+  - first:
+      213: -6493542466176258454
+    second: kinght lad swordflourish_6
+  - first:
+      213: -2865805771342253183
+    second: kinght lad swordflourish_7
+  - first:
+      213: 6109851032159542769
+    second: kinght lad swordflourish_8
+  - first:
+      213: 2180228791386331164
+    second: kinght lad swordflourish_9
+  - first:
+      213: -5243836969676947279
+    second: kinght lad swordflourish_10
+  - first:
+      213: -1802003597784806055
+    second: kinght lad swordflourish_11
+  - first:
+      213: 6853214770223341440
+    second: kinght lad swordflourish_12
+  - first:
+      213: 7362203152074042658
+    second: kinght lad swordflourish_13
+  - first:
+      213: -6942492353489202972
+    second: kinght lad swordflourish_14
+  - first:
+      213: 3422373969519620667
+    second: kinght lad swordflourish_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kinght lad swordflourish_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a91d968c865a67a0800000000000000
+      internalID: -6383194360290403931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinght lad swordflourish_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 57
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061fa6848c8701ba0800000000000000
+      internalID: -6120259091992743584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinght lad swordflourish_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 57
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d9aeb6d62f87850800000000000000
+      internalID: 6375111824318831998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinght lad swordflourish_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 57
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad99cb2b1e58b3450800000000000000
+      internalID: 6069592127224715738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinght lad swordflourish_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d14e6bd1e045d20800000000000000
+      internalID: 3266251150535695706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinght lad swordflourish_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 38
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6452639d4d32a400800000000000000
+      internalID: 333896725773309038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinght lad swordflourish_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 38
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e66a1088d42e5a0800000000000000
+      internalID: -6493542466176258454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinght lad swordflourish_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 38
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18371eba5dc9a38d0800000000000000
+      internalID: -2865805771342253183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinght lad swordflourish_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd5c62742d8ac450800000000000000
+      internalID: 6109851032159542769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinght lad swordflourish_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 19
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1859afc88ab14e10800000000000000
+      internalID: 2180228791386331164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinght lad swordflourish_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 19
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b048522f062a37b0800000000000000
+      internalID: -5243836969676947279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinght lad swordflourish_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 19
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d8f06764ffdf6e0800000000000000
+      internalID: -1802003597784806055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinght lad swordflourish_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f5f9c06828b1f50800000000000000
+      internalID: 6853214770223341440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinght lad swordflourish_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d62ab92cccb2660800000000000000
+      internalID: 7362203152074042658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinght lad swordflourish_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e01966ccff47af90800000000000000
+      internalID: -6942492353489202972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinght lad swordflourish_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32b2c52ef6be7f20800000000000000
+      internalID: 3422373969519620667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kinght lad swordflourish_8: 6109851032159542769
+      kinght lad swordflourish_1: -6120259091992743584
+      kinght lad swordflourish_5: 333896725773309038
+      kinght lad swordflourish_11: -1802003597784806055
+      kinght lad swordflourish_9: 2180228791386331164
+      kinght lad swordflourish_13: 7362203152074042658
+      kinght lad swordflourish_12: 6853214770223341440
+      kinght lad swordflourish_14: -6942492353489202972
+      kinght lad swordflourish_15: 3422373969519620667
+      kinght lad swordflourish_2: 6375111824318831998
+      kinght lad swordflourish_10: -5243836969676947279
+      kinght lad swordflourish_0: -6383194360290403931
+      kinght lad swordflourish_7: -2865805771342253183
+      kinght lad swordflourish_6: -6493542466176258454
+      kinght lad swordflourish_3: 6069592127224715738
+      kinght lad swordflourish_4: 3266251150535695706
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Potion Shop 7
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -7206690441387367200, guid: c813748b066225e4bb17a905c8beb2ae, type: 3}
+  - {fileID: 9158005766279804621, guid: 1b0401bb02c1b714c8f5726bb909335a, type: 3}
+  - {fileID: -6135985327382262544, guid: 923ed7599dab9e64892b792b2fd715b1, type: 3}
+  - {fileID: -5309413653317747173, guid: 7f359f96551066441b4cbbe1553b8205, type: 3}
+  - {fileID: 8630869982020976443, guid: 489c7074b90e7804bb7a3a24bf43daca, type: 3}
+  - {fileID: -9003541283552747262, guid: 41d941cc078beca4693a3869d0433e92, type: 3}
+  - {fileID: 5089713909522945160, guid: 2db19382d42b8594f924a52d2facaafe, type: 3}
+  - {fileID: 1681247716807562182, guid: d6f60b1d042577c4eac9803b051c044b, type: 3}
+  m_MinSpeed: 8
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 2
